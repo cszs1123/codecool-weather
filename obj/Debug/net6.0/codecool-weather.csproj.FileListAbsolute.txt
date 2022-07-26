@@ -1,0 +1,15 @@
+C:\Users\Zsolt\source\repos\codecool-weather\bin\Debug\net6.0\codecool-weather.exe
+C:\Users\Zsolt\source\repos\codecool-weather\bin\Debug\net6.0\codecool-weather.deps.json
+C:\Users\Zsolt\source\repos\codecool-weather\bin\Debug\net6.0\codecool-weather.runtimeconfig.json
+C:\Users\Zsolt\source\repos\codecool-weather\bin\Debug\net6.0\codecool-weather.dll
+C:\Users\Zsolt\source\repos\codecool-weather\bin\Debug\net6.0\codecool-weather.pdb
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.csproj.AssemblyReference.cache
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.AssemblyInfoInputs.cache
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.AssemblyInfo.cs
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.csproj.CoreCompileInputs.cache
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.dll
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\refint\codecool-weather.dll
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.pdb
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\codecool-weather.genruntimeconfig.cache
+C:\Users\Zsolt\source\repos\codecool-weather\obj\Debug\net6.0\ref\codecool-weather.dll
